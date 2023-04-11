@@ -1,9 +1,13 @@
 <resources>
-    <string name="app_name">EmpregaEu4</string>
+    <string name="app_name">Planeta Limpo</string>
     <string name="name">Name</string>
     <string name="password">Password</string>
     <string name="remember">Remember</string>
     <string name="login">Login</string>
     <string name="textoExemplo">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. </string>
     <string name="msgError">User error</string>
+    <string name="descricao1">Urban life calls for a harmonious balance between society and natural ecosystems. However, environmental pollution profoundly impedes this balance. It is known that most forms of pollution originate from human actions, and these make it difficult or prevent the permanence of life for humans and animals. Of the various forms of pollution, we can have as examples, noise pollution, air pollution, and the irregular disposal of solid waste and/or sewage.</string>
+    <string name="objetivo">Objetivo</string>
+    <string name="participe">Participe</string>
+    <string name="objetivo2"> Enable citizens to respond quickly to incidents,as well as encourage the population to become more participatory in the City's environmental issues, especially in identifying and monitoring different forms of environmental pollution.</string>
 </resources>
